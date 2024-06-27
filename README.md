@@ -19,6 +19,8 @@
 
 #機能一覧
 
+*動画サイズの影響で表示の大きさや画質に差があります。
+
 -ユーザ登録機能
 
 ![ユーザ登録](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/98ba86d8-0af2-4185-8c48-538ccf2fe7fc)
