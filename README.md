@@ -10,11 +10,12 @@
 - **Chakra UI**: 2.8.2
 - **Framer Motion**: 11.2.10
 - **Emotion**: @emotion/react 11.11.4, @emotion/styled 11.11.5
-- **Testing Libraries**: @testing-library/react　13.4.0, @testing-library/jest-dom 5.17.0, @testing-library/user-event　13.5.0
+- **Testing Libraries**: @testing-library/react 13.4.0, @testing-library/jest-dom 5.17.0, @testing-library/user-event 13.5.0
 - **Babel**: @babel/core 7.24.7
 - **ESLint**
 
 詳細は package.json を参照してください。
+
 
 #機能一覧
 
@@ -24,11 +25,15 @@
 
 自分のメールアドレスと6桁以上の任意のパスワードを用いてユーザ登録できます。
 
+
+
 -ログイン機能
 
 ![ログイン](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/2e161172-fc37-4fe9-9171-c51302f1aae1)
 
 登録したユーザ情報を入力することで、ユーザごとのホーム画面に移動できます。
+
+
 
 -データの登録、閲覧機能
 
@@ -37,4 +42,18 @@
 入力したい月に移動して＋,－を用いて収支、支出のテキスト、金額を設定し追加することができます。
 
 
+
+-データの削除
+
+![データ削除](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/0174e1b4-ed18-4776-beac-7fce0343c5aa)
+
+×ボタンを押し、確認に許可をすることで、当該データを削除することができます。
+
+
+
+-他ユーザのページ閲覧
+
 ![閲覧](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/eee3761e-4644-4864-996a-eede5785b803)
+
+ページ下の入力フォームに他ユーザのメールアドレスを入力すると、元々選択していた月のユーザの情報を閲覧することができます。
+ただし、他ユーザのページにデータを追加したり、削除したりすることはできません。
