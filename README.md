@@ -20,15 +20,17 @@
 # 機能一覧
 
 *動画サイズの影響で表示の大きさや画質に差があります。
+<br >
+<br >
 
 -ユーザ登録機能
 
 ![ユーザ登録](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/98ba86d8-0af2-4185-8c48-538ccf2fe7fc)
 
 自分のメールアドレスと6桁以上の任意のパスワードを用いてユーザ登録できます。
-
-
-
+<br >
+<br >
+<br >
 -ログイン機能
 
 ![ログイン](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/2e161172-fc37-4fe9-9171-c51302f1aae1)
