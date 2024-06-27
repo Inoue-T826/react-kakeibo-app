@@ -31,30 +31,34 @@
 <br >
 <br >
 <br >
+<br >
 -ログイン機能
 
 ![ログイン](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/2e161172-fc37-4fe9-9171-c51302f1aae1)
 
 登録したユーザ情報を入力することで、ユーザごとのホーム画面に移動できます。
-
-
-
+<br >
+<br >
+<br >
+<br >
 -データの登録、閲覧機能
 
 ![データ入力](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/8a28ff7e-98a0-40bc-ab4a-a1a2f4aa81a3)
 
 入力したい月に移動して＋,－を用いて収支、支出のテキスト、金額を設定し追加することができます。
-
-
-
+<br >
+<br >
+<br >
+<br >
 -データの削除
 
 ![データ削除](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/0174e1b4-ed18-4776-beac-7fce0343c5aa)
 
 ×ボタンを押し、確認に許可をすることで、当該データを削除することができます。
-
-
-
+<br >
+<br >
+<br >
+<br >
 -他ユーザのページ閲覧
 
 ![閲覧](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/eee3761e-4644-4864-996a-eede5785b803)
