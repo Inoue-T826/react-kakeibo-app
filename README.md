@@ -1,2 +1,3 @@
 
-![フルの家計簿](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/18f7370e-1a05-46a3-afbb-3c1725ca8e7a)
+![フルの家計簿 ](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/e9c78c23-a145-4dfe-88d8-2e82bd2152c4)
+
