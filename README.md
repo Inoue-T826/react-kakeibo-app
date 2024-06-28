@@ -23,7 +23,7 @@
 <br >
 <br >
 
-## -ユーザ登録機能>
+## -ユーザ登録機能
 
 ![ユーザ登録](https://github.com/Inoue-T826/react-kakeibo-app/assets/170819367/98ba86d8-0af2-4185-8c48-538ccf2fe7fc)
 
